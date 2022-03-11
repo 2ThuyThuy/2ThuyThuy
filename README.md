@@ -1,4 +1,4 @@
-### Hi I'm Thùy 👋
+### Hi I'm Thuy 👋
 
 <!--
 **2ThuyThuy/2ThuyThuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,5 +12,10 @@
 - 💞️ I’m looking to collaborate on company
 - 📫 How to reach me: Thuynguyen2462k1@gmail.com
 
-<img  src="https://github-readme-stats.vercel.app/api?username=2ThuyThuy&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<a href="https://github.com/2ThuyThuy">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampawan&theme=light&hide_langs_below=1" />
+</a>
+<a href="https://github.com/2ThuyThuy">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=2ThuyThuy&show_icons=true&theme=light&line_height=27" alt="Thuy's github stats"/>
+</a>
 
