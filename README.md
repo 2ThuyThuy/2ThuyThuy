@@ -3,7 +3,7 @@
 <!--
 **2ThuyThuy/2ThuyThuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=2ThuyThuy&label=Views&color=blue&style=plastic"/> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=2ThuyThuy&color=green&style=plastic"/> </p>
 
 
 - 👋 Hi, I’m @2ThuyThuy
