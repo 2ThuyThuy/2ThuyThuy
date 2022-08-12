@@ -9,7 +9,7 @@
 - 👋 Hi, I’m @2ThuyThuy
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Python, Machine Learning,...
-- 💞️ I’m looking to collaborate on company
+- 💞️ I’m a Intern at Boot.AI company
 - 📫 How to reach me: Thuynguyen2462k1@gmail.com
 
 <a href="https://github.com/2ThuyThuy">
